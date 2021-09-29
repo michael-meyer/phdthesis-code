@@ -1,0 +1,3 @@
+[submodule "csidhfi"]
+	path = csidhfi
+	url = https://github.com/csidhfi/csidhfi
