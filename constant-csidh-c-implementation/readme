@@ -1,0 +1,4 @@
+implementation accompanying the paper "On Lions and Elligators: An efficient constant-time implementation of CSIDH"
+
+based on the implementation accompanying the original CSIDH paper by Castryck, Lange, Martindale, Panny, Renes:
+https://eprint.iacr.org/2018/383
